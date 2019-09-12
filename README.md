@@ -27,7 +27,7 @@ Shotgun
 ---
 ![Demo](./assets/shotgun.jpg)
 
-> Chrome Extension: React, Redux, Javascript
+> React, Redux, Javascript
 
 [_Chrome Extension_](https://chrome.google.com/webstore/detail/shotgun-game-pass-enhance/lnbibfnchjpelopboeelajjgebgoplmn)
 
