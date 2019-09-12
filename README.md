@@ -1,7 +1,6 @@
 Welcome! Instead of building a portfolio site, I figured I would just keep a running list of my projects here. Below you will find the projects I am currently working on, as well as projects I have stopped development on. I welcome any and all inquiries.
 
-Current
-======
+### _Current_
 
 Deja
 ---
@@ -34,8 +33,7 @@ Shotgun
 A simple Chrome Extension for enhancing the NFL GamePass website experience for power users, sports journalists and film analysts. Adds a simple search bar into the "play list" sidebar to allow you to quickly search by player and favorite plays for later use.
 
 
-Past
-======
+### _Past_
 
 Cornell Pulse
 ---
@@ -45,4 +43,11 @@ Cornell Pulse
 > Nodejs, React, Javascript
 
 This was a mobile-first web application that I conceived of and built that showed real time activity at university facilities: 5 gyms and 29 campus dining locations used by the Cornell community. I sunsetted it when I left Cornell and since then the project has been rebuilt (much better) by the talented people of the  Cornell Design and Tech Initiative and turned into the mobile app dubbed ["Flux"](https://www.cornelldti.org/Projects/flux)
+
+StreamSurfer
+---
+
+> Django w/ Celery API + React Frontend
+
+This web application periodically scraped posts to various Reddit subreddits for "streams" of sporting events, parsed them and created a structured data representation of upcoming games, the teams involved and what streams were available on an easy to use UI. I decomissioned it due to /r/soccer being banned (thoroughly) and just to avoid possibilities of litigation altogether.
 
