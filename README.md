@@ -1,6 +1,6 @@
 ## My Workshop
 
-Welcome! I like to keep a running list of my projects here. Below you will find the projects I am currently working on, as well as projects I have stopped development on. If anything here interests you or you are interested in colloborating on building something with me, please feel free to reach out. Enjoy :)
+Welcome! Below you will find some of the projects I am currently working on, as well as projects I have stopped development on. If anything here interests you or you are interested in colloborating on building something with me, please feel free to reach out. Enjoy :)
 
 Deja
 ---
