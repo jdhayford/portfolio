@@ -8,9 +8,9 @@ Deja
 
 > Go, FFMPEG, React/Redux, Javascript
 
-_API + [React Frontend](http://deja.video) + Unreleased Chrome Extension_
+_[Chrome Extension](https://chrome.google.com/webstore/detail/deja-extension/fadmeenbclggopfangnbjmfbleffocnb) + [React Frontend](http://deja.video) + API_
 
-Deja lets you grab your own replays from live streams from all around the internet. The Chrome Extension (unreleased) allows you to start a session that "records" the stream. During this session, replays can be created at any time from the extension or from the deja.video web application (mobile-friendly).
+Deja lets you grab your own replays from live streams from all around the internet. The Chrome Extension allows you to start a session that "records" the stream. During this session, replays can be created at any time from the extension or from the deja.video web application (mobile-friendly).
 
 Frak
 ---
