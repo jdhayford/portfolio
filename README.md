@@ -4,6 +4,7 @@ Welcome! Below you will find some of the projects I am currently working on, as 
 
 Deja
 ---
+![Deja Picture](./assets/deja.png)
 [Video Demo](https://www.youtube.com/watch?v=8sKslLUpeCs)
 
 > Go, FFMPEG, React/Redux, Javascript
@@ -24,7 +25,7 @@ A runnning experiment to test the feasibility of creating a reliable tool for do
 
 Shotgun
 ---
-![Demo](./assets/shotgun.jpg)
+![Shotgun Picture](./assets/shotgun.jpg)
 
 > React, Redux, Javascript
 
