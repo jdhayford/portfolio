@@ -4,7 +4,7 @@ Welcome! Below you will find some of the projects I am currently working on, as 
 
 Deja
 ---
-[Demo](https://imgur.com/a/LebXSez)
+[Video Demo](https://www.youtube.com/watch?v=8sKslLUpeCs)
 
 > Go, FFMPEG, React/Redux, Javascript
 
