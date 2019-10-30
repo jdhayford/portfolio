@@ -50,3 +50,16 @@ StreamSurfer [inactive]
 
 This web application periodically scraped posts to various Reddit subreddits for "streams" of sporting events, parsed them and created a structured data representation of upcoming games, the teams involved and what streams were available on an easy to use UI. I decomissioned it due to /r/soccer being banned (thoroughly) and just to avoid possibilities of litigation altogether.
 
+____
+
+### Things I built during Grad School
+
+Uke Machina - Self Playing Ukulele[2016]
+---
+![Uke Picture](./assets/uke.png)
+![CAD for Clamp](./assets/clamp.png)
+![CAD for Clamp](./assets/attached.png)
+
+[Video Demo](https://www.youtube.com/watch?v=XjbdhokM8rI&feature=youtu.be)
+
+For our Rapid Prototyping class, we were tasked to build something audacious combining all of the things we were learning (3D printing, circuitry and arduino programming). My bias towards the wonderful 4-stringed instrument led to us building a ukulele that could play "Somewhere over the Rainbow". One of my favorite projects yet.
