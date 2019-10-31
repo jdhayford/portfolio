@@ -41,7 +41,7 @@ Cornell Pulse [inactive]
 
 > Nodejs, React, Javascript
 
-This was a mobile-first web application that I conceived of and built that showed real time activity at university facilities: 5 gyms and 29 campus dining locations used by the Cornell community. I sunsetted it when I left Cornell and since then the project has been rebuilt (much better) by the talented people of the  Cornell Design and Tech Initiative and turned into the mobile app dubbed ["Flux"](https://www.cornelldti.org/Projects/flux)
+This was a mobile-first web application that I conceived of and built that showed real time activity at university facilities: 5 gyms and 29 campus dining locations used by the Cornell community. Unfortunately due to me delaying on an official release, it was primarily used by myself and people I knew (hard lesson learned on letting perfection be the enemy of good). I sunsetted it when I left Cornell and since then the project has been rebuilt (much better) by the talented people of the  Cornell Design and Tech Initiative and turned into the mobile app dubbed ["Flux"](https://www.cornelldti.org/Projects/flux)
 
 StreamSurfer [inactive]
 ---
