@@ -13,6 +13,8 @@ _[Chrome Extension](https://chrome.google.com/webstore/detail/deja-extension/fad
 
 Deja lets you grab your own replays from live streams from all around the internet. The Chrome Extension allows you to start a session that "records" the stream. During this session, replays can be created at any time from the extension or from the [deja.video](http://deja.video) web application (mobile-friendly).
 
+[Link to repository](https://github.com/jdhayford/deja)
+
 Frak
 ---
 [Demo](https://imgur.com/a/YwX6lmY)
